@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4c51c18d.chunk.css",
+    "main.js": "/static/js/main.0ebfadff.chunk.js",
+    "main.js.map": "/static/js/main.0ebfadff.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8dc0443e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8dc0443e.js.map",
+    "static/js/2.bd9f8eef.chunk.js": "/static/js/2.bd9f8eef.chunk.js",
+    "static/js/2.bd9f8eef.chunk.js.map": "/static/js/2.bd9f8eef.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.713172989a384b035915449195515e33.js": "/precache-manifest.713172989a384b035915449195515e33.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.4c51c18d.chunk.css.map": "/static/css/main.4c51c18d.chunk.css.map",
+    "static/js/2.bd9f8eef.chunk.js.LICENSE.txt": "/static/js/2.bd9f8eef.chunk.js.LICENSE.txt",
+    "static/media/arrow-up.svg": "/static/media/arrow-up.9a784733.svg",
+    "static/media/App.css": "/static/media/pexels-john-ray-ebora-3863802.857fb963.jpg",
+    "static/media/classic beauty.png": "/static/media/classic beauty.26e0faef.png",
+    "static/media/instagram.svg": "/static/media/instagram.48bdd58e.svg",
+    "static/media/loader.gif": "/static/media/loader.8ca24726.gif",
+    "static/media/mail.svg": "/static/media/mail.aab98379.svg",
+    "static/media/menu.svg": "/static/media/menu.eabb93bb.svg",
+    "static/media/p1.jpeg": "/static/media/p1.bbd7497f.jpeg",
+    "static/media/p2.jpeg": "/static/media/p2.a0a5768f.jpeg",
+    "static/media/p3.jpeg": "/static/media/p3.7b8b6c00.jpeg",
+    "static/media/p4.jpeg": "/static/media/p4.5d062318.jpeg",
+    "static/media/p5.jpeg": "/static/media/p5.299d89fe.jpeg",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.f50d9927.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dc0443e.js",
+    "static/js/2.bd9f8eef.chunk.js",
+    "static/css/main.4c51c18d.chunk.css",
+    "static/js/main.0ebfadff.chunk.js"
+  ]
+}
